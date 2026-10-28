@@ -1,0 +1,39 @@
+WINTER ARC: INVICTICUS — V2.1 THEME / IDENTITY PASS
+
+Campaign engine preserved:
+- Day 1: Friday, October 30, 2026
+- End: Thursday, December 31, 2026
+- 63 calendar days
+- 52 legitimate Ironwall bricks
+- 11 non-brick days of margin
+- Same progress epoch, storage compatibility, reward gates, reset law, and legacy archive
+
+Identity changes:
+- App name: WINTER ARC: INVICTICUS
+- Overarching system: THE 52ND WATCH
+- New creed: ENDURE THE COLD. BUILD THE PROOF.
+- Apple/PWA short name: Winter Arc
+- Social/meta identity updated
+- Runtime release label: WINTER ARC V2.1 · OCT 30 EDITION · schema v64
+
+Winter visual system:
+- Midnight navy / cold steel / ice-blue atmosphere
+- Frosted card and navigation borders
+- Subtle animated snow drift with reduced-motion protection
+- Icy Winter Arc seal
+- Cold-overlay hero treatment
+- Winterized 52/angel app cover and matching app icons
+- Frostline / Winter Forge / Summit phase naming
+
+Safety / integrity:
+- Campaign start/end unchanged
+- Progress epoch unchanged (no unintended reset)
+- CAMPAIGN_ID unchanged
+- Restore compatibility v59-v64 preserved
+- Reward date math unchanged
+- Iron Ledger targets unchanged
+- Health/recovery readiness rules unchanged
+- Historical 26-day wall and 90/90 No-Slither proof preserved
+
+Repository verification:
+- 133 / 133 checks passed

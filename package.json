@@ -1,0 +1,10 @@
+{
+  "name": "winter-arc-invicticus",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Verification and deployment package for Winter Arc: Invicticus — The 52nd Watch Oct 30 Edition.",
+  "scripts": {
+    "test": "node scripts/verify-repository.mjs",
+    "verify": "node scripts/verify-repository.mjs"
+  }
+}

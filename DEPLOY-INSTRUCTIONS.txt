@@ -1,0 +1,9 @@
+THE 52ND WATCH — WINTER ARC: INVICTICUS CHALLENGE · OCT 30 EDITION
+
+1. Upload ALL files/folders from this package to the root of the GitHub repository.
+2. Do not upload the ZIP as the website itself.
+3. GitHub: Settings > Pages > Deploy from a branch > main > /(root).
+4. Open the deployed site once online; the V2 service worker uses a new repo-scoped cache key.
+5. In the app, verify the Home screen shows: OCT 30–DEC 31 · 63 DAYS · 52 BRICKS.
+6. Verify the active wall begins at 0/52 and the first Supply Drop says earliest Nov 5.
+7. Run npm test locally or via the included verification workflow before considering deployment final.

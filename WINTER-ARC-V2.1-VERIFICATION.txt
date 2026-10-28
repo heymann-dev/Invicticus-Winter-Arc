@@ -1,0 +1,139 @@
+
+> winter-arc-invicticus@2.1.0 test
+> node scripts/verify-repository.mjs
+
+PASS  Required file: .gitignore
+PASS  Required file: .nojekyll
+PASS  Required file: README.md
+PASS  Required file: DEPLOY-INSTRUCTIONS.txt
+PASS  Required file: app-cover.png
+PASS  Required file: icon-192.png
+PASS  Required file: icon-512.png
+PASS  Required file: icon.svg
+PASS  Required file: index.html
+PASS  Required file: manifest.webmanifest
+PASS  Required file: package.json
+PASS  Required file: service-worker.js
+PASS  Required file: scripts/verify-repository.mjs
+PASS  Required file: .github/workflows/verify.yml
+PASS  Stale dated campaign artwork removed
+PASS  Ten primary sections remain
+PASS  Page exists: home
+PASS  Page exists: today
+PASS  Page exists: reset
+PASS  Page exists: health
+PASS  Page exists: photos
+PASS  Page exists: mountains
+PASS  Page exists: journey
+PASS  Page exists: goals
+PASS  Page exists: reviews
+PASS  Page exists: data
+PASS  Schema v64 remains active
+PASS  Oct 30 campaign start is canonical
+PASS  Dec 31 campaign end is canonical
+PASS  Oct 30 restart timestamp is canonical
+PASS  Oct 30 restart ID is unique
+PASS  Oct 30 progress epoch is active
+PASS  Campaign ID distinguishes Oct 30 run
+PASS  Visible hero shows 63-day window
+PASS  Visible UI contains no stale Oct 19 launch
+PASS  Visible UI contains no stale 74-day window
+PASS  Full duty is active at launch
+PASS  Challenge constitution is visible
+PASS  Eleven non-brick days of margin are stated
+PASS  52-brick wall exists
+PASS  Exactly six daily standard controls exist
+PASS  Daily standard prayer exists
+PASS  Daily standard water exists
+PASS  Daily standard rehab exists
+PASS  Daily standard hevy exists
+PASS  Daily standard looks exists
+PASS  Daily standard noSlither exists
+PASS  Brick law requires closeout six checks and integrity
+PASS  Streak and wall total are distinguished in visible law
+PASS  Readiness can modify training without automatic failure
+PASS  Prelaunch mode remains brick-safe
+PASS  Internal date audit uses Oct 30 Day 1
+PASS  Internal date audit uses Oct 31 Day 2
+PASS  October launch baseline gate is 2 bricks
+PASS  November pace gate is 32 bricks
+PASS  December summit gate is 52 bricks
+PASS  Review UI names Oct 31 Nov 30 Dec 31
+PASS  Review goal calls October a baseline
+PASS  Review goal avoids fake October trend
+PASS  Fourteen wall checkpoints exist
+PASS  Reward dates derive from campaign start
+PASS  All earliest unlock dates mathematically match Oct 30
+PASS  Main Drop 01 defaults to Mako3
+PASS  Bonus Drop 01 defaults to Nuke SS
+PASS  Bonus Drop 02 defaults to Neutron Detour
+PASS  Drop 02 Lobster remains
+PASS  Sleep Fortress remains
+PASS  Fitted Style remains
+PASS  Outside Mission remains
+PASS  Training Recovery drop remains
+PASS  Career Leverage remains
+PASS  Summit reward uses 52 crest
+PASS  Claim Bank Swap workflow remains
+PASS  Reward eligibility is brick-count based
+PASS  Supply timeline exists on Home
+PASS  Iron Ledger has six missions
+PASS  Incline target 250x8 remains
+PASS  OHP target 185x5 remains
+PASS  Weighted chin target +130x6 remains
+PASS  Pull-up hour target remains 500
+PASS  Curl target 135x5 remains
+PASS  Squat remains recovery-sensitive
+PASS  Hevy remains workout-detail source
+PASS  Five body-status sliders remain
+PASS  Recovery command remains
+PASS  Return to Mountains remains
+PASS  Historical 26-day proof remains canonical
+PASS  90-day No-Slither proof remains canonical
+PASS  Prior earned badges are converted to legacy proof
+PASS  Real-life goals and todos survive active reset
+PASS  Active rewards reset to defaultRewards
+PASS  Current-run reviews reset
+PASS  Current-run surprise state resets
+PASS  Reset reason says Friday Oct 30
+PASS  Mobile dock exists
+PASS  Mobile top nav is removed at small widths
+PASS  44px minimum touch targets remain
+PASS  No duplicate DOM IDs
+PASS  Every data-jump target resolves
+PASS  Every data-scroll target resolves
+PASS  Manifest is repo-relative
+PASS  Manifest describes 63-day Oct 30 run
+PASS  Manifest has two icons
+PASS  App cover is 1024 square
+PASS  192 icon dimensions correct
+PASS  512 icon dimensions correct
+PASS  Social cover now points to date-neutral app cover
+PASS  Service worker cache is Winter Arc V2.1 Oct30 r1
+PASS  Service worker does not cache stale dated artwork
+PASS  Service worker cache is repo-scoped
+PASS  Controlled SW update remains
+PASS  Package version is 2.1.0
+PASS  Runtime label distinguishes release from schema
+PASS  Watch surprise dialog exists
+PASS  Watch seal exists
+PASS  Watch dispatch exists
+PASS  Record surprise occurs at Brick 27
+PASS  Summit surprise occurs at Brick 52
+PASS  Full-duty surprise is active-run status
+PASS  Surprises do not alter wall rule
+PASS  Restore compatibility v59 remains
+PASS  Restore compatibility v60 remains
+PASS  Restore compatibility v61 remains
+PASS  Restore compatibility v62 remains
+PASS  Restore compatibility v63 remains
+PASS  Restore compatibility v64 remains
+PASS  No private backup JSON committed
+PASS  No personal JPEG HEIC MOV files committed
+PASS  No embedded personal image payload
+PASS  No embedded private-state bootstrap
+PASS  No private finance or claim snapshot committed
+PASS  Application JavaScript parses
+PASS  Service worker JavaScript parses
+
+133/133 repository checks passed.

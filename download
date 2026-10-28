@@ -1,0 +1,25 @@
+# Project 52: Archangel / Northstar private data must never be committed.
+*PRIVATE*
+*private*
+*private-seed*
+*RESTORE*
+*restore*
+*BACKUP*.json
+*backup*.json
+project_sources/
+photos/
+backups/
+exports/
+IMG_*
+*.heic
+*.heif
+*.jpeg
+*.jpg
+*.mov
+.env
+.env.*
+node_modules/
+
+# Local operating-system files
+.DS_Store
+Thumbs.db

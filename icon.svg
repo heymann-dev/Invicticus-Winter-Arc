@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Winter Arc: Invicticus</title>
+  <desc id="desc">A gold winged armored sentinel, sword, halo, and the number 52 on a frozen midnight-blue field.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="68%"><stop stop-color="#17334a"/><stop offset="1" stop-color="#030912"/></radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5dda0"/><stop offset=".45" stop-color="#c59b45"/><stop offset="1" stop-color="#6f4d19"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <circle cx="256" cy="188" r="88" fill="none" stroke="url(#gold)" stroke-width="10"/>
+  <path d="M253 26l13 117h-26zM253 349l13 137h-26zM47 188l149-13v26zM465 188l-149-13v26z" fill="url(#gold)"/>
+  <g fill="none" stroke="url(#gold)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M236 182c-58-70-119-77-178-55 48 22 73 50 101 85-45-22-78-19-108-5 47 16 80 44 119 82"/>
+    <path d="M276 182c58-70 119-77 178-55-48 22-73 50-101 85 45-22 78-19 108-5-47 16-80 44-119 82"/>
+    <path d="M213 202l43-28 43 28-12 90h-62z"/>
+    <path d="M256 214v192M225 252h62"/>
+  </g>
+  <circle cx="256" cy="163" r="31" fill="#07111c" stroke="url(#gold)" stroke-width="9"/>
+  <text x="256" y="438" text-anchor="middle" fill="url(#gold)" font-family="Georgia,serif" font-size="116" font-weight="900" letter-spacing="-8">52</text>
+
+  <g fill="#dff5ff" opacity=".68">
+    <circle cx="96" cy="84" r="3"/><circle cx="414" cy="98" r="2.5"/><circle cx="72" cy="336" r="2"/><circle cx="430" cy="352" r="3"/><circle cx="154" cy="412" r="2"/><circle cx="356" cy="56" r="2"/>
+  </g>
+</svg>

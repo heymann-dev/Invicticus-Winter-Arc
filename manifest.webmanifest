@@ -1,0 +1,31 @@
+{
+  "name": "Winter Arc: Invicticus · The 52nd Watch",
+  "short_name": "Winter Arc",
+  "description": "Winter Arc: Invicticus — Oct 30 through Dec 31, 2026: 63 days, 52 honest bricks, full-duty work, strength, recovery, faith, attention control, Supply Drops, and year-end proof.",
+  "id": "./",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#040a11",
+  "theme_color": "#07111c",
+  "categories": [
+    "productivity",
+    "health",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
